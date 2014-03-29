@@ -27,4 +27,10 @@ Silver Art Producers
 * type
 * year_produced
 * notes
+* image_observe_id
+* image_reverse_id
+
+### images
+* id
+* url
 
